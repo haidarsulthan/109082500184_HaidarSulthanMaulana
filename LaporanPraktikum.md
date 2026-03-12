@@ -29,9 +29,8 @@ func main() {
 	fmt.Println("Output akhir = " + satu + " " + dua + " " + tiga)
 }
 ### Output Unguided :
-	!(image.png)
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/shellyneu/103112430114_Shellyn/blob/main/modul1/output/output-soal1.png)
+![Screenshot Output Unguided 1_1](https://github.com/haidarsulthan/109082500184_HaidarSulthanMaulana/modul2/output/output1png.png)
 [penjelasan]
-
+Program ini meminta 3 output dari user lalu inputan nya diurutkan sesuai masukkan user dan akhirnya memberi outputan berupa hasil geser variabel.
