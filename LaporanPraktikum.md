@@ -1,5 +1,5 @@
 # <h1 align="center">Laporan Praktikum Modul 1 - ... </h1>
-<p align="center">[nama] - [NIM]</p>
+<p align="center">[Haidar Sulthan Maulana] - [109082500184]</p>
 
 ## Unguided 
 
