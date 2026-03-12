@@ -29,6 +29,7 @@ func main() {
 	fmt.Println("Output akhir = " + satu + " " + dua + " " + tiga)
 }
 ### Output Unguided :
+	c:\Users\HP VICTUS 15\OneDrive\Pictures\Screenshots\Screenshot (164).png
 
 ##### Output 
 ![Screenshot Output Unguided 1_1](https://github.com/shellyneu/103112430114_Shellyn/blob/main/modul1/output/output-soal1.png)
