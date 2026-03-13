@@ -32,7 +32,6 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-<<<<<<< HEAD
 ![Output1](https://raw.githubusercontent.com/haidarsulthan/109082500184_HaidarSulthanMaulana/main/Modul2/output/Output1.png)
 =======
 ![Screenshot Output Unguided 1_1](https://github.com/haidarsulthan/109082500184_HaidarSulthanMaulana/blob/main/Modul2/output/Output1.png)
