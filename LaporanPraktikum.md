@@ -32,7 +32,11 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
+<<<<<<< HEAD
 ![Output1](https://raw.githubusercontent.com/haidarsulthan/109082500184_HaidarSulthanMaulana/main/Modul2/output/Output1.png)
+=======
+![Screenshot Output Unguided 1_1](https://github.com/haidarsulthan/109082500184_HaidarSulthanMaulana/blob/main/Modul2/output/Output1.png)
+>>>>>>> 4d06c0a7a5048dc50488189f4ba148c47ce9e0b4
 [penjelasan]
 Program ini meminta 3 output dari user lalu inputan nya diurutkan sesuai masukkan user dan akhirnya memberi outputan berupa hasil geser variabel.
 
