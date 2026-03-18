@@ -33,9 +33,9 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Output1](https://raw.githubusercontent.com/haidarsulthan/109082500184_HaidarSulthanMaulana/main/Modul2/output/Output1.png)
+![Output1](https://raw.githubusercontent.com/haidarsulthan/109082500184_HaidarSulthanMaulana/refs/heads/main/modul3/Output/Output1.png)
 [penjelasan]
-Program ini meminta 3 output dari user lalu inputan nya diurutkan sesuai masukkan user dan akhirnya memberi outputan berupa hasil geser variabel.
+Program ini digunakan untuk menghitung prmutasi dan kombinasi dari 4 inputan user. disini ada 4 func yang pertama fktorial untuk menghitung faktorial menggunakan loop dimana loop akan berjalan dari 2 ke n dan mengalikan tiap i nya. Lalu func kedua untuk permutasi yang menghitung hasil bagi dari faktorial(n)/faktorial(n-r). Kemudian func ketiga untuk kombinasi bedanya dengan permutasi hanya pembaginya yang diubah menjadi faktorial(r)*faktorial(n-r). Yang terakhir ada func main disini hanya untuk membaca inputan user dan memunculkan output program.
 
 
 '''
@@ -72,9 +72,9 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Output1](https://raw.githubusercontent.com/haidarsulthan/109082500184_HaidarSulthanMaulana/refs/heads/main/Modul2/output/Output2.png)
+![Output1](https://raw.githubusercontent.com/haidarsulthan/109082500184_HaidarSulthanMaulana/refs/heads/main/modul3/Output/Output2.png)
 [penjelasan]
-Program ini dibuat untuk mengecek kombinasi 4 warna dalam percobaan. Jika warnanya merah, kuning, hijau, ungu maka true. Sebaliknya jika tidak sesuai maka false.
+Program ini dibuat untuk menghitung fungsi.Didalamnya terdapat 4 func, pertama ada f(x)untuk menghitung f(x) = x^2, g(x)= x - 2, h(x) = x + 1, dan terakhir ada main disini tempat untuk membaca input a,b,c dan menghitung (FOGOh)(a), (GOHOF)(b), dan (HOFOG)(c)
 
 
 '''
@@ -120,6 +120,6 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Output1](https://raw.githubusercontent.com/haidarsulthan/109082500184_HaidarSulthanMaulana/refs/heads/main/Modul2/output/Output3.png)
+![Output1](https://raw.githubusercontent.com/haidarsulthan/109082500184_HaidarSulthanMaulana/refs/heads/main/modul3/Output/Output3.png)
 [penjelasan]
-Program ini dibuat untuk menghitung biaya pengiriman berdasarkan berat dalam gram. Program mengubah gram menjadi kilogram lalu mengalikan dengan harga perkilonya lalu ditambahkan sisa beratnya dan program menampilkan hasil jumlahnya menjadi total harga.
+Program ini dibuat untuk menentukan lokasi titik sembarang.Di program ini terdapat 3 func, Pertama untuk menghitung jarak titik sembarang dari titik pusat,kedua untuk membandingkan jarak titik sembarang terhadap jari" lingkaran, dan yang terakhir main untuk membaca inputan user dan menentukan output yang akan dikeluarkan program
