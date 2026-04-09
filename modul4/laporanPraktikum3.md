@@ -48,7 +48,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Output1](https://raw.githubusercontent.com/haidarsulthan/109082500184_HaidarSulthanMaulana/refs/heads/main/modul3/Output/Output1.png)
+![Output1](https://raw.githubusercontent.com/haidarsulthan/109082500184_HaidarSulthanMaulana/refs/heads/main/modul4/output/output1.png)
 [penjelasan]
 Program ini digunakan untuk menghitung permutasi dan kombinasi dari dua bilangan yang diinputkan pengguna. Fungsi faktorial digunakan untuk menghitung n! dengan perulangan, dan menggunakan pointer agar hasil langsung disimpan ke variabel tanpa rturn(karna pointer berguna untuk menyimpan nilai sementara jadi tidak perlu mengembalikan nilai ke func lain). Fungsi permutasi dan kombinasi mengambil nilai dari func faktorial karna menggunakan pointer. Di fungsi main, program membaca empt bilangan, menghitung hasil untuk dua pasangan(permutasi dan kombinasi), lalu menampilkannya dalam dua baris.
 
@@ -102,7 +102,7 @@ package main
 ### Output Unguided :
 
 ##### Output 
-![Output1](https://raw.githubusercontent.com/haidarsulthan/109082500184_HaidarSulthanMaulana/refs/heads/main/modul3/Output/Output2.png)
+![Output1](https://raw.githubusercontent.com/haidarsulthan/109082500184_HaidarSulthanMaulana/refs/heads/main/modul4/output/output2.png)
 [penjelasan]
 program membaca nama peserta satu per satu sampai memasukkan "selesai" agar program berhenti. Untuk setiap peserta, program memanggil fungsi hitungSkor dengan i <= 8 karna ada 8 soal yang diberikan dan waktu <= 300 ini juga karna diberikan waktu 5 jam. Di fungsi hitungSkor, program membaca waktu dari 8 soal. Jika waktu ≤ 300, soal dihitung benar dan akan ditambahkan dengan waktu. Program ini memakai pointer supaya nilai soal dan skor bisa langsung berubah tanpa return. Setelah itu, program membandingkan hasil setiap peserta. Pemenang adalah yang soalnya paling banyak, dan pengerjaan yang cepat.
 '''
