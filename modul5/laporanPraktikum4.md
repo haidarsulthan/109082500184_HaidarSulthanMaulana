@@ -38,7 +38,7 @@ func fibonacci(n int) int {
 ### Output Unguided :
 
 ##### Output 
-![Output1](https://raw.githubusercontent.com/haidarsulthan/109082500184_HaidarSulthanMaulana/refs/heads/main/modul5/Output/Output1.png)
+![Output1]()
 [penjelasan]
 Program ini bertujuan untuk menampilkan deret indeks dari 0 hingga n serta deret bilangan Fibonacci hingga suku ke-n dengan menggunakan bahasa pemrograman Go. Nilai n diinput oleh pengguna, kemudian program mencetak indeks menggunakan perulangan. Untuk menghitung bilangan Fibonacci, digunakan fungsi rekursif, di mana jika n ≤ 1 maka nilai dikembalikan langsung, sedangkan jika n > 1 maka dihitung sebagai penjumlahan dua suku sebelumnya, yaitu Fibonacci(n-1) + Fibonacci(n-2).
 
