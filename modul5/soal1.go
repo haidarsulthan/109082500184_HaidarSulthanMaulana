@@ -8,10 +8,20 @@ func fibonacci(n int) int {
 	}
 	return fibonacci(n-1) + fibonacci(n-2)
 }
+
 func main() {
 	var n int
 	fmt.Scan(&n)
-	for i := 0; i < n; i++ {
-		fmt.Printf("%d ", fibonacci(i))
+
+	fmt.Print("n: ")
+	for i := 0; i <= n; i++ {
+		fmt.Print(i, " ")
 	}
+	fmt.Println()
+
+	fmt.Print("Sn: ")
+	for i := 0; i <= n; i++ {
+		fmt.Print(fibonacci(i), " ")
+	}
+
 }
