@@ -46,7 +46,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Output1]()
+![Output1](https://raw.githubusercontent.com/haidarsulthan/109082500184_HaidarSulthanMaulana/refs/heads/main/modul7%269/Output/Output1.png)
 
 [Program tersebut bekerja dengan cara membaca input pusat dan radius dua lingkaran serta koordinat sebuah titik, lalu menggunakan fungsi dalamLingkaran untuk menghitung apakah titik tersebut berada di dalam lingkaran. hasilnya berupa boolean yang menunjukkan apakah titik ada di lingkaran pertama, kedua, keduanya, atau tidak sama sekali, kemudian bagian main mencetak pesan sesuai kondisi: “Titik di dalam lingkaran 1 dan 2”, “Titik di dalam lingkaran 1”, “Titik di dalam lingkaran 2”, atau “Titik di luar lingkaran 1 dan 2”.]
 
@@ -189,7 +189,7 @@ func main() {
 
 ##### Output 
 
-[Output1](gambar/bilangan.jpg)
+![Output2](https://raw.githubusercontent.com/haidarsulthan/109082500184_HaidarSulthanMaulana/refs/heads/main/modul7%269/Output/Output2.png)
 [Program Go ini melakukan beberapa operasi pada slice arr: pertama menampilkan setiap index dan nilainya, lalu memisahkan tampilan berdasarkan index genap/ganjil serta index kelipatan x, kemudian menghapus elemen pada index tertentu menggunakan fungsi e (dengan cara menggeser elemen ke kiri dan memotong slice), setelah itu menghitung rata-rata dengan fungsi avg, dan terakhir menghitung frekuensi kemunculan tiap nilai unik memakai fungsi freq; meskipun secara konsep sudah benar untuk latihan dasar, kode ini masih punya kelemahan seperti tidak ada validasi input (bisa error kalau index tidak valid atau x = 0), penggunaan algoritma yang kurang efisien pada freq (O(n²)), serta penamaan yang membingungkan seperti variabel avg yang menimpa nama fungsi.]
 
 ### 3. [PERTANDINGAN_BOLA]
@@ -242,7 +242,7 @@ func main() {
 
 ##### Output 
 
-![Output1](gambar/pertandinganbola.png)
+![Output1](https://raw.githubusercontent.com/haidarsulthan/109082500184_HaidarSulthanMaulana/refs/heads/main/modul7%269/Output/Output3.png)
 [Program ini membaca dua nama klub (A dan B), lalu masuk ke loop tanpa batas untuk menerima input skor pertandingan berulang (skor1 dan skor2); setiap pasangan skor dibandingkan—jika skor1 > skor2 maka hasil "mu" ditambahkan ke slice hasil, jika skor2 > skor1 maka "inter", dan jika sama maka "DRAW"—proses ini berhenti saat salah satu skor bernilai negatif, lalu seluruh hasil pertandingan ditampilkan satu per satu; secara logika dasar sudah jalan, tapi ada asumsi keliru yang cukup serius: pemenang tidak menggunakan variabel A dan B melainkan hardcoded "mu" dan "inter", jadi input nama klub sebenarnya tidak dipakai sama sekali, selain itu tidak ada validasi input (misalnya jika user salah format input), dan loop for {} tanpa kontrol tambahan membuat program sepenuhnya bergantung pada input negatif untuk berhenti.]
 
 
@@ -328,7 +328,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Output_4](gambar/reversestring.jpg)
+![Output_4](https://raw.githubusercontent.com/haidarsulthan/109082500184_HaidarSulthanMaulana/refs/heads/main/modul7%269/Output/Output4.png)
 
 [Program ini membaca karakter satu per satu ke dalam array tabel (maksimal 127 rune) lewat isiArray, berhenti saat menemui titik (.) dan mengabaikan spasi serta newline; jumlah karakter disimpan di m, lalu cetakArray menampilkan isi array, fungsi palindrom mengecek apakah teks sama jika dibalik dengan membandingkan elemen dari depan dan belakang, dan balikanArray benar-benar membalik isi array dengan menukar elemen simetris; secara logika ini sudah benar untuk manipulasi array dan pengecekan palindrom, tetapi ada asumsi yang perlu dikritisi: input sangat bergantung pada format per karakter dengan Scanf("%c") yang rawan error (misalnya buffering newline), tidak ada batasan jika input melebihi NMAX (bisa overflow indeks), serta penghapusan spasi membuat hasil palindrom berbeda dari ekspektasi jika pengguna menganggap spasi bagian dari teks (misalnya “katak katak” diperlakukan berbeda).]
 
