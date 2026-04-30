@@ -46,7 +46,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Output1](https://raw.githubusercontent.com/haidarsulthan/109082500184_HaidarSulthanMaulana/refs/heads/main/modul7%269/Output/Output1.png)
+![Output1](https://github.com/haidarsulthan/109082500184_HaidarSulthanMaulana/blob/main/modul10/Output/Output1.png)
 
 [Program tersebut bekerja dengan cara membaca input pusat dan radius dua lingkaran serta koordinat sebuah titik, lalu menggunakan fungsi dalamLingkaran untuk menghitung apakah titik tersebut berada di dalam lingkaran. hasilnya berupa boolean yang menunjukkan apakah titik ada di lingkaran pertama, kedua, keduanya, atau tidak sama sekali, kemudian bagian main mencetak pesan sesuai kondisi: “Titik di dalam lingkaran 1 dan 2”, “Titik di dalam lingkaran 1”, “Titik di dalam lingkaran 2”, atau “Titik di luar lingkaran 1 dan 2”.]
 
@@ -189,7 +189,7 @@ func main() {
 
 ##### Output 
 
-![Output2](https://raw.githubusercontent.com/haidarsulthan/109082500184_HaidarSulthanMaulana/refs/heads/main/modul7%269/Output/Output2.png)
+![Output2](https://github.com/haidarsulthan/109082500184_HaidarSulthanMaulana/blob/main/modul10/Output/Output2.png)
 [Program Go ini melakukan beberapa operasi pada slice arr: pertama menampilkan setiap index dan nilainya, lalu memisahkan tampilan berdasarkan index genap/ganjil serta index kelipatan x, kemudian menghapus elemen pada index tertentu menggunakan fungsi e (dengan cara menggeser elemen ke kiri dan memotong slice), setelah itu menghitung rata-rata dengan fungsi avg, dan terakhir menghitung frekuensi kemunculan tiap nilai unik memakai fungsi freq; meskipun secara konsep sudah benar untuk latihan dasar, kode ini masih punya kelemahan seperti tidak ada validasi input (bisa error kalau index tidak valid atau x = 0), penggunaan algoritma yang kurang efisien pada freq (O(n²)), serta penamaan yang membingungkan seperti variabel avg yang menimpa nama fungsi.]
 
 ### 3. [PERTANDINGAN_BOLA]

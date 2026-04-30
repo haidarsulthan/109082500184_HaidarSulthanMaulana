@@ -154,5 +154,5 @@ func main() {
 
 ##### Output 
 
-![Output1](https://raw.githubusercontent.com/haidarsulthan/109082500184_HaidarSulthanMaulana/refs/heads/main/modul7%269/Output/Output3.png)
+![Output3](https://github.com/haidarsulthan/109082500184_HaidarSulthanMaulana/blob/main/modul10/Output/Output3.png)
 [Program Go tersebut digunakan untuk mengolah data berat badan balita dengan cara membaca sejumlah input berat, lalu menghitung nilai minimum, maksimum, dan rata-rata dari data tersebut. Fungsi hitungMinMax menerima array berat balita dan pointer untuk menyimpan nilai minimum, maksimum, serta jumlah balita; fungsi ini meminta input jumlah data, mengisi array dengan berat balita, kemudian menentukan berat terkecil dan terbesar. Fungsi rerata menghitung rata-rata dengan menjumlahkan semua elemen array lalu membaginya dengan jumlah balita. Di dalam main, program memanggil hitungMinMax untuk menampilkan berat minimum dan maksimum, kemudian memanggil rerata untuk menampilkan rata-rata berat balita. Dengan demikian, program ini membantu menganalisis data berat balita secara sederhana.]
