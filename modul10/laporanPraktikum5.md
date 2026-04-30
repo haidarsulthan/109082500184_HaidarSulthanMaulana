@@ -46,7 +46,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Output1](https://raw.githubusercontent.com/haidarsulthan/109082500184_HaidarSulthanMaulana/refs/heads/main/modul7%269/Output/Output1.png)
+![Output1](https://github.com/haidarsulthan/109082500184_HaidarSulthanMaulana/blob/main/modul10/Output/Output1.png)
 
 [Program Go tersebut digunakan untuk membaca data berat sejumlah anak kelinci, lalu menentukan berat terbesar dan terkecil dari data tersebut. Fungsi hitung menerima array berat kelinci dan jumlah data A, kemudian meminta input berat tiap anak kelinci. Setelah semua data dimasukkan, program membandingkan setiap elemen untuk mencari nilai maksimum dan minimum. Hasil akhirnya ditampilkan berupa berat kelinci terbesar dan terkecil. Fungsi main hanya bertugas meminta jumlah anak kelinci dari pengguna, mendeklarasikan array, lalu memanggil fungsi hitung untuk menjalankan proses perhitungan. Dengan demikian, program ini sederhana namun efektif untuk analisis data berat kelinci.]
 
@@ -93,7 +93,7 @@ func main() {
 
 ##### Output 
 
-![Output2](https://raw.githubusercontent.com/haidarsulthan/109082500184_HaidarSulthanMaulana/refs/heads/main/modul7%269/Output/Output2.png)
+![Output2](https://github.com/haidarsulthan/109082500184_HaidarSulthanMaulana/blob/main/modul10/Output/Output2.png)
 [Program Go tersebut berfungsi untuk membagi data berat ikan ke dalam beberapa wadah dan menghitung rata-rata berat ikan di setiap wadah. Fungsi beratIkan pertama-tama meminta input jumlah ikan yang akan dijual (x) dan kapasitas wadah (y), kemudian membaca berat masing-masing ikan dan menyimpannya dalam array. Setelah itu, program melakukan iterasi dengan langkah sebesar kapasitas wadah (y), menghitung total berat ikan dalam wadah tersebut, lalu membagi dengan jumlah ikan di wadah untuk mendapatkan rata-rata. Hasilnya ditampilkan sebagai rata-rata berat ikan per wadah. Fungsi main hanya mendeklarasikan array ikan dan memanggil beratIkan.]
 
 ### 3. [BAYI]
