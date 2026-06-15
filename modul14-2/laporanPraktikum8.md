@@ -183,5 +183,5 @@ func main() {
 
 ##### Output 
 
-![Output3](https://github.com/haidarsulthan/109082500184_HaidarSulthanMaulana/blob/main/modul11-2/Output/Output2.png)
+![Output2](https://github.com/haidarsulthan/109082500184_HaidarSulthanMaulana/blob/main/modul14-2/Output/Output2.png)
 [Program golang diatas berfungsi untuk mengelola data buku dengan beberapa fitur utama. Pertama, tipe data Buku menyimpan informasi lengkap seperti id, judul, penulis, penerbit, jumlah eksemplar, tahun terbit, dan rating. Data buku disimpan dalam array DaftarBuku dengan kapasitas maksimum 7919. Fungsi DaftarkanBuku digunakan untuk membaca input data buku dari pengguna sesuai jumlah yang dimasukkan. Selanjutnya, CetakTerfavorit mencari buku dengan rating tertinggi dan mencetak detailnya. Fungsi UrutBuku mengurutkan daftar buku berdasarkan rating secara menurun menggunakan algoritma insertion sort. Setelah diurutkan, Cetak5Terbaru menampilkan lima judul buku teratas, atau kurang jika jumlah buku tidak mencapai lima. Fungsi CariBuku melakukan pencarian dengan metode binary search untuk menemukan buku dengan rating tertentu, lalu menampilkan detailnya jika ditemukan. Terakhir, fungsi main mengatur alur program dengan membaca jumlah buku, mendaftarkan data, membaca rating target, lalu menjalankan semua fungsi tersebut secara berurutan.]
